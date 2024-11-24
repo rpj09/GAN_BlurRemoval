@@ -1,12 +1,12 @@
 # GAN_DEBLUR: Deblurring Images
 
-## Simply download `GAN_BLUR_REMOVAL.ipynb` and open it inside Kaggle or click [here](https://www.kaggle.com/code/rpjdev/gan-blur-removal) and copy the file with "File > Save a copy to Drive..." into your kaggle.
+## Simply download `gan-blur-removal.ipynb` and open it inside Kaggle or click [here](https://www.kaggle.com/code/rpjdev/gan-blur-removal) .
 
 
 
 #### Important information
 
-- If you can't open `GAN_BLUR_REMOVAL.ipynb` inside your kaggle, try this [colab link](https://www.kaggle.com/code/rpjdev/gan-blur-removal) and save it to your kaggle.
+- If you can't open `gan-blur-removal.ipynb` inside your kaggle, try this [colab link](https://www.kaggle.com/code/rpjdev/gan-blur-removal) and save it to your kaggle.
 
 
 ## Overview
